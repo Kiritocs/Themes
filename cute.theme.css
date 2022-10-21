@@ -84,14 +84,11 @@
 
 .loot-backdrop .lol-uikit-video-content {
    background: url(https://thicc-thighs.de/stuff/wallpaper.jpg) !important;
-   display: block;
-   box-sizing: border-box;
-   width: 180px;
-   height: 236px;
-   padding-left: 180px;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
+    display: block;   
+    box-sizing: border-box;
+    width: 180px; 
+    height: 236px; 
+    padding-left: 180px; 
 }
 
 .lol-uikit-dialog-frame.top,
